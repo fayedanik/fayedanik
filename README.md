@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fayedanik
 - 👀 I’m interested in building new software, learning new technology
-- 🌱 I’m currently learning C#,.NET core
+- 🌱 I’m currently learning C#,.NET
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me Email or linkedIn
 
